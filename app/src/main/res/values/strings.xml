@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Todo2Done</string>
+    <string name="completed_activity">Completed Items</string>
+    <string name="to_do_item">Todo Item</string>
+    <string name="priority">Priority</string>
+    <string name="add_item">Add a Todo</string>
+
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="view_completed_tasks">View Completed Tasks</string>
+    <string name="delete_forever">Delete Forever</string>
+    <string name="start_date">Start Date:</string>
+    <string name="end_date">End date:</string>
+    <string name="days">days</string>
+    <string name="empty_placeholder">Nothing todo!\nClick add to start adding to your Todo List</string>
+    <string name="completed_placeholder">All completed tasks will show here</string>
+
+    <string name="delete_all">Delete all items forever?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string-array name="priority_levels">
+        <item>@string/high</item>
+        <item>@string/medium</item>
+        <item>@string/low</item>
+    </string-array>
+</resources>
